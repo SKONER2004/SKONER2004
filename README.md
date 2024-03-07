@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6537c554035e8d1be73213b2?variant=dark&roadmaps=datastructures-and-algorithms%2Ccpp%2Cjavascript)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6537c554035e8d1be73213b2?variant=dark&roadmaps=javascript%2Ccpp%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 
 <!--
 **SKONER2004/SKONER2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
